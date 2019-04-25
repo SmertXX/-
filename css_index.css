@@ -1,0 +1,19 @@
+body{font-family:arial; font-size:15px; margin:0; paddinf:0; background:url(Fon.jpg);}
+ul{padding:0; margin:0;}
+h2, h3 {color: #A0522D; margin-top:0; padding-right:15px; padding-left:15px;}
+header {height:160px; width:100%;}
+.logotype {float: left;}
+img {margin: 30px;}
+
+.contacts {padding-right:30px; font-size:20px; text-align:right;}
+
+nav {float:left; margin:100px 0px 0px 10px;}
+nav ul {display:inline;}
+nav ul a {font-size:30px; padding: 0px 300px 0px 0px; text-decoration:none;}
+
+header section aside.right {float:left; padding-left: 60px; width:300px; padding-top:50px}
+
+section aside.center {float:left; width:300px; padding-left: 60px; padding-top:50px}
+
+h2 {padding-top:500px}
+footer section aside.left {float:left; padding-left:60px; width:300px; padding-top:50px}
